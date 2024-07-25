@@ -1,5 +1,3 @@
-# Netflix-Data-Exploration
-Netflix Data Exploration and Visualization
 # Netflix Data Exploration and Visualization
 
 ## Project Overview
@@ -33,4 +31,5 @@ Welcome to the **Netflix Data Exploration and Visualization** project! This proj
 1. Clone the repository:
    ```bash
    git clone https://github.com/YourUsername/Netflix-Data-Exploration.git
+
 
