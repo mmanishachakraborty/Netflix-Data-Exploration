@@ -28,7 +28,7 @@ Welcome to the **Netflix Data Exploration and Visualization** project! This proj
 
 ## PDF Report
 
-For a detailed analysis and visualization, please refer to the [PDF report](Business Case_ Netflix - Data Exploration and Visualisation.ipynb - Colab(1).pdf).
+For a detailed analysis and visualization, please refer to the [PDF report](https://github.com/mmanishachakraborty/Netflix-Data-Exploration/blob/main/Business%20Case_%20Netflix%20-%20Data%20Exploration%20and%20Visualisation.ipynb%20-%20Colab(1).pdf).
 
 ## Conclusion
 
